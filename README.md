@@ -1,24 +1,4 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Ce repository contient l'exercice n°2 du projet validant de la 4ème semaine de THP. Le but ici est de créer une application reliant des chiens et des dog-sitter en foncrion de la ville.
+Chaque chien peut avoir plusieurs dog-sitter et chaque dog-sitter peut promener plusieurs chiens à la fois. 
